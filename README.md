@@ -20,8 +20,7 @@ An automated Python script that sends customized daily update emails with option
 ```
 DAILY_EMAIL_BOT/
 ├── .env                    # Stores EMAIL_USER and EMAIL_PASS securely
-├── email_bot.py            # Core logic to send email
-├── main.py                 # Entry point script for automation
+├── main.py                 # Entry point script for automation logic
 ├── message_template.txt    # Email message template
 ├── email_bot.log           # Auto-generated log file
 ├── README.md               # This file
