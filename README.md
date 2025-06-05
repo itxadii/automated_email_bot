@@ -33,7 +33,7 @@ DAILY_EMAIL_BOT/
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/daily-email-bot.git
+git clone https://github.com/itxadii/automated_email_bot.git
 cd daily-email-bot
 ```
 
